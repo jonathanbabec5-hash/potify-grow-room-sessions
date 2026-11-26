@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## The recording that belongs with these pages
+
+‘Grow Room Version’ matters. A link can say the right song title and still point at a different edit. When a reader moves from Book I to the music, the file behind the play button is an editorial decision, just as surely as a paragraph break.
+
+The [listening page](public/index.html) points to [The Soil Remembers (Grow Room Version)](public/audio/the-soil-remembers-grow-room.mp3). A filename and digest let an editor identify the bytes. The listener can answer a different question: does the intended recording start, sound right and remain usable on their device?
+
+Try the beginning from a cold visit. If something is wrong, note the player, device and timestamp. Public listening is not a sync or remix license. The track’s companion is Book I of The POTIFY Chronicle in the [free edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition).
+
 **Audio edition and listening page.** Give the Grow Room Version of The Soil Remembers a canonical listening copy.
 
 ### Setup and usage
