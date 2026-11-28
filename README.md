@@ -1,5 +1,13 @@
 # Grow Room Sessions
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A listener | [Open the listening page source](public/index.html) | Find The Soil Remembers (Grow Room Version). |
+| An editor | [Inspect the recording](public/audio/the-soil-remembers-grow-room.mp3) | Check which audio file the page references. |
+| A reader | [Open the First Cycle edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition) | Move between Book I and its companion recording. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## The recording that belongs with these pages
